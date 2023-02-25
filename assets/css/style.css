@@ -796,6 +796,7 @@ section {
   margin-bottom: 35px;
   border-radius: 6px;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+  min-height: 250px;
 }
 
 .testimonials .testimonial-item p::after {
